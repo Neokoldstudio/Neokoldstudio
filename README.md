@@ -7,7 +7,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Neokoldstudio&show_icons=true&theme=vision-friendly-dark"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neokoldstudio&theme=vision-friendly-dark">
 
-// This page is a work in progress //
+// This README page is a work in progress //
 <!---
 Neokoldstudio/Neokoldstudio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
