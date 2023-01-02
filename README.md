@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Neokoldstudio, also ( not ) known as N30 on the internet
 - 👀 I'm interested in game developpement :)
 - 🌱 I’m currently learning gamedev and 3D rendering linked topics, such as gameplay programming and shaders
-- 📫 How to reach me : Twitter <a href:https://twitter.com/VP__Neo>@VP__Neo</a>
+- 📫 How to reach me : Twitter <a href:https://twitter.com/VP__Neo> @VP__Neo </a>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Neokoldstudio&show_icons=true&theme=vision-friendly-dark"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neokoldstudio&theme=vision-friendly-dark">
