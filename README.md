@@ -5,7 +5,7 @@
 - 📫 How to reach me : Twitter [@VP__Neo](https://twitter.com/VP__Neo)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Neokoldstudio&show_icons=true&theme=github_dark"> 
+<img src="https://github-readme-stats.vercel.app/api?username=Neokoldstudio&show_icons=true&theme=github_dark"> <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neokoldstudio&theme=github_dark&layout=compact">
 </p>
 
