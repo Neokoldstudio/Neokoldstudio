@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Neokoldstudio, a 19 years old developper also ( not ) known as N30 on the internet
 - 👀 I'm interested in game developpement :)
 - 🌱 I’m currently learning gamedev and 3D rendering linked topics, such as gameplay programming and shaders
-- ⚠️ If this github page seems empty, it's mainly because github isn't actually a place I actively put code onto, but I will start to do it more and more!
+- 📖 I'm also a computer science student at the university of Bordeaux during daytime
 - 📫 How to reach me : Twitter [@VP__Neo](https://twitter.com/VP__Neo)
 
 ## for the stat nerds :
@@ -19,7 +19,8 @@
 - 🎮 I often usually work with Unity, GameMaker Studio 2 and Unreal engine 5
 - 🖌️ I also use blender, photoshop and aceprite to make my art, sometimes
 - 🎸 I also enjoy making music ( no plans of me releasing something for the moment but ... who knows )
-- 📷 sometimes I take photos, find them on instagram : [@30lilpics]([https://twitter.com/VP__Neo](https://www.instagram.com/30lilpics/))
+- 📷 sometimes I take photos, find them on instagram : [@30lilpics](https://www.instagram.com/30lilpics/)
+- ⚠️ If this github page seems empty, it's mainly because github isn't actually a place I actively put code onto, but I will start to do it more and more!
 
 // This README page is a work in progress //
 <!---
