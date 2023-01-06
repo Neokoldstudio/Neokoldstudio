@@ -16,7 +16,7 @@
 ## What else ?
 
 - 🦔 I am currently working on a cute little puzzle game about edgehogs called "Spiky Traveler"
-- 🎮 currently working with Unity, GameMaker Studio 2 and Unreal engine 5
+- 🎮 I often usually work with Unity, GameMaker Studio 2 and Unreal engine 5
 - 🖌️ I also use blender, photoshop and aceprite to make my art, sometimes
 - 🎸 I also enjoy making music ( no plans of me releasing something for the moment but ... who knows )
 - 📷 sometimes I take photos, find them on instagram : [@30lilpics]([https://twitter.com/VP__Neo](https://www.instagram.com/30lilpics/))
