@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m @Neokoldstudio, a 19 years old developper also ( not ) known as N30 on the internet
 - 👀 I'm interested in game developpement :)
-- 🌱 I’m currently learning gamedev and 3D rendering linked topics, such as gameplay programming and shaders
-- 📖 I'm also a computer science student at the university of Bordeaux during daytime
+- 📖 I'm currently a computer science student at the university of Bordeaux during daytime
+- 🌱 at night, I’m also learning gamedev and 3D rendering linked topics, such as gameplay programming and shaders
 - 📫 How to reach me : Twitter [@VP__Neo](https://twitter.com/VP__Neo)
 
 ## for the stat nerds :
