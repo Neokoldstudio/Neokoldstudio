@@ -4,8 +4,10 @@
 - ⚠️ If this github page seems empty, it's mainly because github isn't actually a place I actively put code onto, but I will start to do it more and more!
 - 📫 How to reach me : Twitter [@VP__Neo](https://twitter.com/VP__Neo)
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=Neokoldstudio&show_icons=true&theme=github_dark"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neokoldstudio&theme=github_dark&layout=compact">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Neokoldstudio&show_icons=true&theme=github_dark"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neokoldstudio&theme=github_dark&layout=compact">
+</p>
 
 // This README page is a work in progress //
 <!---
