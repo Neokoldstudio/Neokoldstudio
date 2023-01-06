@@ -1,6 +1,6 @@
 ## Who am I ?
 
-- 👋 Hi, I’m @Neokoldstudio, also ( not ) known as N30 on the internet
+- 👋 Hi, I’m @Neokoldstudio, a 19 year old developper also ( not ) known as N30 on the internet
 - 👀 I'm interested in game developpement :)
 - 🌱 I’m currently learning gamedev and 3D rendering linked topics, such as gameplay programming and shaders
 - ⚠️ If this github page seems empty, it's mainly because github isn't actually a place I actively put code onto, but I will start to do it more and more!
@@ -9,7 +9,8 @@
 ## for the stat nerds :
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Neokoldstudio&show_icons=true&theme=github_dark"> <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neokoldstudio&theme=github_dark&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neokoldstudio&theme=github_dark&layout=compact"> <br>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Neokoldstudio&thme=github_dark&layout=compact">
 </p>
 
 // This README page is a work in progress //
