@@ -5,7 +5,7 @@
 - 📫 How to reach me : Twitter [@VP__Neo](https://twitter.com/VP__Neo)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Neokoldstudio&show_icons=true&theme=vision-friendly-dark"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neokoldstudio&theme=vision-friendly-dark&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=Neokoldstudio&show_icons=true&theme=github_dark"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neokoldstudio&theme=github_dark&layout=compact">
 
 // This README page is a work in progress //
 <!---
