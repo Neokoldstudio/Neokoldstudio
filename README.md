@@ -16,6 +16,7 @@
 
 ## What else ?
 
+- 🚩 Find my released work on [Itch.io](https://neo-o.itch.io/)
 - 🦔 I am currently working on a cute little puzzle game about edgehogs called "Spiky Traveler"
 - 🎮 I often usually work with Unity, GameMaker Studio 2 and Unreal engine 5
 - 🖌️ I also use blender, photoshop and aceprite to make my art, sometimes
