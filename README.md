@@ -18,7 +18,7 @@
 ## What else ?
 
 
-- 🦔 I am currently working on a cute little puzzle game about edgehogs called "Spiky Traveler"
+- 🌿 I am currently working on a shell texturing algorithm Using the Godot game engine
 - 🎮 I often usually work with Unity, GameMaker Studio 2 and Unreal engine 5
 - 🖌️ I also use blender, photoshop and aceprite to make my art, sometimes
 - 🎸 I also enjoy making music ( no plans of me releasing something for the moment but ... who knows )
