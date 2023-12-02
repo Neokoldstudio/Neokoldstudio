@@ -23,9 +23,6 @@
 - 🖌️ I also use blender, photoshop and aceprite to make my art, sometimes
 - 🎸 I also enjoy playing music ( no plans of me releasing something for the moment but ... who knows )
 - 📷 Sometimes I take photos, find them on instagram : [@30lilpics](https://www.instagram.com/30lilpics/)
-- ⚠️ If this github page seems empty, it's mainly because github isn't actually a place I actively put code onto, but I will start to do it more and more!
-
-// This README page is a work in progress //
 <!---
 Neokoldstudio/Neokoldstudio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
