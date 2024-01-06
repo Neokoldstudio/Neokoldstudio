@@ -1,6 +1,6 @@
 ## Who am I ?
 
-- 👋 Hi, I’m Paul Godbert, a 19 years old developper also ( not ) known as N30 on the internet
+- 👋 Hi, I’m Paul Godbert, a 20 years old developper also ( not ) known as N30 on the internet
 - 👀 I'm interested in game developpement :)
 - 📖 I'm currently a computer science student at the university of Bordeaux during daytime
 - 🌱 At night, I’m also learning gamedev and 3D rendering linked topics, such as gameplay programming and shaders
