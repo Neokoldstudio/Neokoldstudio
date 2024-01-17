@@ -19,7 +19,7 @@
 
 
 - 🌿 I am currently working on a shell texturing algorithm Using the Godot game engine
-- 🎮 I often usually work with Unity, GameMaker Studio 2 and Unreal engine 5
+- 🎮 I usually work with Unity, GameMaker Studio 2 and Unreal engine 5
 - 🖌️ I also use blender, photoshop and aceprite to make my art, sometimes
 - 🎸 I also enjoy playing music ( no plans of me releasing something for the moment but ... who knows )
 - 📷 Sometimes I take photos, find them on instagram : [@30lilpics](https://www.instagram.com/30lilpics/)
