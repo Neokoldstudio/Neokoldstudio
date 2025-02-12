@@ -17,7 +17,7 @@
 ## What else ?
 
 
-- 🌿 I am currently working on a shell texturing algorithm Using the Godot game engine
+- 🌊 I am currently learning on fluid simulation and it's real-time applications
 - 🎮 I usually work with Unity, GameMaker Studio 2 and Unreal engine 5
 - 🖌️ I also use blender, photoshop and aceprite to make my art, sometimes
 - 🎸 I also enjoy playing music ( no plans of me releasing something for the moment but ... who knows )
