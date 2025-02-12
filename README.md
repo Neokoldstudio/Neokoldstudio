@@ -1,9 +1,9 @@
 ## Who am I ?
 
-- 👋 Hi, I’m Paul Godbert, a 21 years old developper also ( not ) known as N30 on the internet
+- 👋 Hi, I’m Paul Godbert, a 21 years old developper also ( not ) known as [N30](https://neokoldstudio.github.io/) on the internet
 - 👀 I'm interested in game developpement :)
-- 📖 I'm currently a master's computer science student and member of LIGUM, the university of Montréal
-- 🌱 At night, I’m also learning gamedev and 3D rendering linked topics, such as gameplay programming and shaders
+- 📖 I'm currently a CS master's student and member of LIGUM, at University of Montréal
+- 🌱 At night, I’m also learning gamedev by making small games with friends
 - 📫 How to reach me : Twitter [@VP__Neo](https://twitter.com/VP__Neo)
 - 🚩 Find my released work on [Itch.io](https://neo-o.itch.io/)
 
