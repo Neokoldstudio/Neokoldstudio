@@ -4,7 +4,7 @@
 - 👀 I'm interested in game developpement :)
 - 📖 I'm currently a CS master's student and member of LIGUM, at University of Montréal
 - 🌱 At night, I’m also learning gamedev by making small games with friends
-- 📫 How to reach me : Twitter [@VP__Neo](https://twitter.com/VP__Neo)
+- 📫 You can reach me on [bluesky](https://bsky.app/profile/vp-n30.bsky.social)
 - 🚩 Find my released work on [Itch.io](https://neo-o.itch.io/)
 
 ## for the stat nerds :
@@ -17,7 +17,7 @@
 ## What else ?
 
 
-- 🌊 I am currently learning on fluid simulation and it's real-time applications
+- 🌊 I am currently learning on fluid simulatiosn and their real-time applications
 - 🎮 I usually work with Unity, GameMaker Studio 2 and Unreal engine 5
 - 🖌️ I also use blender, photoshop and aceprite to make my art, sometimes
 - 🎸 I also enjoy playing music ( no plans of me releasing something for the moment but ... who knows )
