@@ -18,7 +18,7 @@
 
 
 - 🌊 I am currently learning about fluid simulations and their real-time applications
-- 🎮 I usually work with Unity, GameMaker Studio 2, and Unreal Engine 5
+- 🎮 I usually work with Unity, Godot and GameMaker Studio 2
 - 🖌️ I also use Blender, Photoshop, and aseprite to make my art, sometimes
 - 🎸 I also enjoy playing music ( no plans of me releasing something for the moment but ... who knows )
 - 📷 Sometimes I take photos, find them on Instagram: [@30lilpics](https://www.instagram.com/30lilpics/)
