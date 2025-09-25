@@ -20,9 +20,7 @@
 
 - 🌊 I am currently learning about fluid simulations and their real-time applications
 - 🎮 I usually work with Unity, Godot and GameMaker Studio 2
-- 🖌️ I also use Blender, Photoshop, and aseprite to make my art, sometimes
-- 🎸 I also enjoy playing music ( no plans of me releasing something for the moment but ... who knows )
-- 📷 Sometimes I take photos, find them on Instagram: [@30lilpics](https://www.instagram.com/30lilpics/)
+- 🤓 I am mostly working with C++, C# and shader languages for messing with rendering pipelines and computes shaders
 <!---
 Neokoldstudio/Neokoldstudio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
