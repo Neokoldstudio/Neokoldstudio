@@ -7,14 +7,7 @@
 - 🌙 At night, I'm making silly video games with my friends
 - 📫 You can reach me on [bluesky](https://bsky.app/profile/vp-n30.bsky.social)
 - 🚩 Find my released work on [Itch.io](https://neo-o.itch.io/)
-
-## for the stat nerds :
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Neokoldstudio&show_icons=true&theme=github_dark"> <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neokoldstudio&theme=github_dark&layout=compact"> <br>
-</p>
-
+  
 ## What else?
 
 
