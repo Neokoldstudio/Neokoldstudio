@@ -1,6 +1,6 @@
 ## Who am I?
 
-- 👋 Hi, I’m Paul Godbert, a 21 years old developer also ( not ) known as [N30](https://neokoldstudio.github.io/) on the internet
+- 👋 Hi, I’m Paul Godbert, a 22 years old developer also ( not ) known as [N30](https://neokoldstudio.github.io/) on the internet
 - 👀 I'm interested in game development :)
 - 📖 I'm currently a CS master's student and member of LIGUM, at the University of Montréal
 - ☀️ During the day, I work as an R&D intern at Ubisoft La Forge
