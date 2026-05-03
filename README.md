@@ -10,9 +10,8 @@
   
 ## What else?
 
-
-- 🌊 I am currently learning about fluid simulations and their real-time applications
-- 🎮 I usually work with Unity, Godot and GameMaker Studio 2
+- 🌊 I am currently working on real-time fluid simulations
+- 🎮 I usually work with Unity and Godot
 - 🤓 I am mostly working with C++, C# and shader languages for messing with rendering pipelines and computes shaders
 <!---
 Neokoldstudio/Neokoldstudio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
