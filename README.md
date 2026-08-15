@@ -1,6 +1,6 @@
 ## Who Am I ?
 
-Currently a Research Intern at Ubisoft LaForge in Montreal, where I work on real-time simulation technologies for games within the World Building and Rendering Team. My focus is on exploring new procedural approaches to improve real-time fluid simulation systems and enable more realistic, dynamic environments in games 🌊
+I was previously a Research Intern at Ubisoft LaForge in Montreal, where I worked on real-time simulation technologies for games within the World Building and Rendering Team. My focus was on exploring new procedural approaches to improve real-time fluid simulation systems and enable more realistic, dynamic environments in games 🌊
 
 Outside of my research work, I dedicate a large part of my time to growing as a game developer, with a particular interest in real-time simulation, rendering, and gameplay programming. I am passionate about building elegant systems that are technically robust, engaging for players, and integrate seamlessly with artistic workflows.
 
