@@ -1,6 +1,6 @@
 ## Who Am I ?
 
-I am a Graphics Engineer at Unity, working on Unity's webGPU backend. aiming at enabling better access to games on the web !
+I am a Graphics Engineer at Unity, working on Unity's WebGPU backend. aiming at enabling better access to games on the web !
 
 I was previously a Research Intern at Ubisoft LaForge in Montreal, where I worked on real-time simulation technologies for games within the World Building and Rendering Team. My focus was on exploring new procedural approaches to improve real-time fluid simulation systems and enable more realistic, dynamic environments in games 🌊
 
